@@ -1,0 +1,68 @@
+{
+    "songs":[
+        {
+            "id": 0,
+            "name": "Radio Verdad",
+            "song_url": "https://cloudstream2036.conectarhosting.com/8168/stream",
+            "image":"img/logoRVerdad.png"
+        },{
+            "id": 1,
+            "name":"Radio Cret - San Miguel",
+            "song_url": "http://radiocret.net:8000/live",
+            "image" : "img/radioCretLogo.png"
+        },{
+            "id": 2,
+            "name": "Radio Cret - Santa Ana",
+            "song_url":"https://radiocret.net:8101/live",
+            "image" : "img/radioCretLogo.png"
+        },
+        {
+            "id": 3,
+            "name":"Radio Elim (Calidad Alta)",
+            "song_url": "https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_320",
+            "image" : "img/LogoElim.png"
+        },
+        {
+            "id": 4,
+            "name":"Radio Elim (Calidad Media)",
+            "song_url": "https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_128",
+            "image" : "img/LogoElim.png"
+        },
+        {
+            "id": 5,
+            "name":"Radio Elim (Calidad Baja)",
+            "song_url": "https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_64",
+            "image" : "img/LogoElim.png"
+        },
+        {
+            "id": 6,
+            "name":"Radio Bautista",
+            "song_url": "https://s2.radio.co/s3a7dc3d82/listen",
+            "image" : "img/radiobautistaLogo.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Radio Centro Cristiano",
+            "song_url" : "https://vivo.miradio.in:7008/;",
+            "image" : "img/CentroCristianoLogo.jpg"
+        },
+        {
+            "id": 8,
+            "name":"Radio Gospel (Calidad Alta)",
+            "song_url": "https://ssl.rockhost.com/proxy/gospel?mp=/mp3_320",
+            "image" : "img/GospelLogo.jpg"
+        },
+        {
+            "id": 9,
+            "name":"Radio Gospel (Calidad Media)",
+            "song_url": "https://ssl.rockhost.com/proxy/gospel?mp=/mp3_128",
+            "image" : "img/GospelLogo.jpg"
+        },
+        {
+            "id": 10,
+            "name":"Radio Gospel (Calidad Baja)",
+            "song_url": "https://ssl.rockhost.com/proxy/gospel?mp=/mp3_64",
+            "image" : "img/GospelLogo.jpg"
+        }
+    ]
+}
